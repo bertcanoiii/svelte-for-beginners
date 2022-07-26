@@ -87,3 +87,18 @@ button:focus-visible {
 @tailwind components;
 
 @tailwind utilities;
+
+.bert-link {
+  @apply
+  hover:text-blue-900
+  hover:-translate-y-1
+  hover:scale-110
+  duration-500
+  text-white text-xl font-bold
+}
+
+.bert-btn {
+  @apply
+  hover:scale-110
+  duration-500
+}

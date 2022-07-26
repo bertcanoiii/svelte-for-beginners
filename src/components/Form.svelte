@@ -20,5 +20,5 @@
     </label>
     <textarea bind:value={post} id="post" class="textarea textarea-bordered h-24 w-full"
               placeholder="Post"></textarea>
-    <button on:click={sendSubmitForm} class="btn mt-6">Submit</button>
+    <button on:click={sendSubmitForm} class="btn bert-btn mt-6">Submit</button>
 </div>
