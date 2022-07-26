@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "author": "Bert",
+      "date_created": "07/26/2022",
+      "post": "This is the post made by Bert"
+    },
+    {
+      "id": 2,
+      "author": "David",
+      "date_created": "07/25/2022",
+      "post": "This is the post made by David"
+    },
+    {
+      "id": 3,
+      "author": "Tom",
+      "date_created": "07/24/2022",
+      "post": "This is the post made by Tom"
+    }
+  ]
+}
